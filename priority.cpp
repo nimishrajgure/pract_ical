@@ -1,5 +1,4 @@
-// C++ program for implementation of FCFS
-// scheduling
+
 #include<bits/stdc++.h>
 using namespace std;
 
